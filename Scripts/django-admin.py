@@ -1,4 +1,4 @@
-#!e:\githubrepos\tickets\scripts\python.exe
+#!e:\githubrepos\timesheet\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
